@@ -1,7 +1,7 @@
 import React from 'react';
 // import { Feather, MaterialCommunityIcons, MaterialIcons } from '@expo/vector-icons';
 
-import { Container, HeadingText } from './styles';
+import { Container } from './styles';
 
 import colors from '../../styles/colors';
 
